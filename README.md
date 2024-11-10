@@ -1,2 +1,5 @@
 # brand-name-generator-
-its all about how you want the name generated for your band or any crazy projects 
+"welcome to the band name generator"
+name=input("what is your favourite candy name : ")
+pet=input("what is your pet name : ")
+print(name+pet)
